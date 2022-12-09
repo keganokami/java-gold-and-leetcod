@@ -1,0 +1,6 @@
+/.vscode/
+/bin/
+/dir/
+/lib/
+data.txt
+.DS_Store
